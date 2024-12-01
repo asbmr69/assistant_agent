@@ -9,27 +9,9 @@ PyAudio==0.2.14
 SpeechRecognition==3.10.1
 pyperclip==1.8.2
 pytest==8.3.3
-pytest-tk==0.0.1
-# Voice Assistant Application Requirements
-
-## Core Dependencies
-groq==1.0.0
-google-generativeai==1.0.1
-Pillow==10.2.0
-opencv-python==4.8.1.78
-pyperclip==1.8.2
-torch==2.1.2
-whisper==1.1.10
-PyQt6==6.6.0
-sounddevice==0.4.6
-
-## Testing Dependencies
-pytest==7.4.4
 pytest-qt==4.2.0
-
-## Development Tools
 flake8==6.1.0
 black==23.12.1
-
-# Optional: GPU Support
-# torch-cuda (version depends on your CUDA version)
+whisper==1.1.10
+sounddevice==0.4.6
+PyQt6==6.6.0
